@@ -1,26 +1,22 @@
 Mercury: 19,5 mm
 Venus: 48,4 mm
-Earth: 50,9 mm
+Earth: 50,9 mm + Moon: 13,9 mm
 Mars: 27,1 mm
-Jupiter: 559,28800 mm
-Saturn: 465,85600 mm
-Uranus: 202,89600 mm
-Neptune: 196,99200 mm
+Jupiter: 559,28800 mm + Io: 14,5 mm + Europa: 12,5 mm + Ganymede: 21 mm + Callisto: 19,2 mm
+Saturn: 465,85600 mm + Titan: 20,6 mm
+Uranus: 202,89600 mm + Titania: 6,4 mm
+Neptune: 196,99200 mm + Triton: 10,8 mm
 Planet 9: 160 mm
 
 Ceres: 3,8 mm
-Pluto: 9,4 mm
-Charon: 4,8 mm
+Orcus: 3,8336 mm + Vanth: 1,76 mm
+Pluto: 9,4 mm + Charon: 4,8 mm
+Ixion: 2,84 mm
+Salacia: 3,62 mm + Actaea: 1.2 mm
+Varuna: 2,672 mm
 Haumea: 8,4 mm
+Quaoar: 4.44 mm + Weywot: 0,68 mm (680 micrometers)
 Makemake: 5,72 mm
-Eris: 9,304 mm
-Dysnomia: 1,96 mm
-
-Moon: 13,9 mm  
-Io: 14,5 mm
-Europa: 12,5 mm
-Ganymede: 21 mm
-Callisto: 19,2 mm
-Titan: 20,6 mm
-Titania: 6,4 mm
-Triton: 10,8 mm
+Gonggong 4,92 mm
+Eris: 9,304 mm + Dysnomia: 1,96 mm
+Sedna: 3,98 mm
