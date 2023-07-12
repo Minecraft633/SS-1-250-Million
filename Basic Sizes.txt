@@ -12,10 +12,10 @@ Ceres: 3,8 mm
 Orcus: 3,8336 mm + Vanth: 1,76 mm
 Pluto: 9,4 mm + Charon: 4,8 mm
 Ixion: 2,84 mm
-Salacia: 3,62 mm + Actaea: 1.2 mm
+Salacia: 3,62 mm + Actaea: 1,2 mm
 Varuna: 2,672 mm
 Haumea: 8,4 mm
-Quaoar: 4.44 mm + Weywot: 0,68 mm (680 micrometers)
+Quaoar: 4,44 mm + Weywot: 0,68 mm (680 micrometers)
 Makemake: 5,72 mm
 Gonggong 4,92 mm
 Eris: 9,304 mm + Dysnomia: 1,96 mm
