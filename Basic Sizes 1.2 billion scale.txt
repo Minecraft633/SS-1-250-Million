@@ -1,0 +1,20 @@
+Mercury: 4 mm
+Venus: 10 mm
+Earth: 10 mm
+Mars: 5 mm
+Jupiter: 119 mm
+Saturn: 100 mm
+Uranus: 42 mm
+Neptune: 41 mm
+Planet 9 (Hypothetical): 33 mm
+
+Pluto: 1.98 mm
+Eris: 1.93 mm
+
+The Moon: 2.8 mm
+Io: 3 mm
+Europa: 2 mm
+Ganymede: 4.3 mm
+Callisto: 4 mm
+Titan: 4.2 mm
+Triton: 2.2 mm
